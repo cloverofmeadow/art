@@ -7,47 +7,47 @@
 _**Feel**_ 
 ![Feel](res/img/feel.jpg)
 
-Blues
+_**Blues**_ 
 ![Blues](res/img/blues.jpg)
 
-Elephant
-![Elephant](res/img/elephant.png)
+_**Elephant**_ 
+![Elephant](res/img/elephant.PNG)
 
-Yours
+_**Yours**_ 
 ![Yours](res/img/yours.jpg)
 
-Emotional Bruises
+_**Emotional Bruises**_ 
 ![Emotional Bruises](res/img/emotional_bruises.jpg)
 
-Gaze
+_**Gaze**_ 
 ![Gaze](res/img/gaze.jpg)
 
-Nude Sketch
+_**Nude Sketch**_ 
 ![Nude Sketch](res/img/nude_sketch.jpg)
 
-Question Innocence
+_**Question Innocence**_ 
 ![Question Innocence](res/img/question_innocence.jpg)
 
-Getting Older 
+_**Getting Older**_ 
 ![Getting Older](res/img/getting_older.jpg)
 
-First Time
+_**First Time**_ 
 ![First Time](res/img/first_time.jpg)
 
-Edible Flower 
+_**Edible Flower**_ 
 ![Edible Flower](res/img/edible_flower.jpg)
 
-Knead
+_**Knead**_ 
 ![Knead](res/img/knead.jpg)
 
-Lions
+_**Lions**_ 
 ![Lions](res/img/lions.jpg)
 
-Model
+_**Model**_ 
 ![Model](res/img/model.jpg)
 
-Pizza Girl
+_**Pizza Girl**_ 
 ![Pizza Girl](res/img/pizza_girl.jpg)
 
-Tears
+_**Tears**_ 
 ![Tears](res/img/tears.jpg)
