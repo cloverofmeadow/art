@@ -1,8 +1,4 @@
-## Clover Ofmeadow Art 
-
-[Instagram](https://www.instagram.com/clover_ofmeadow/)
-
-### 2020
+## 2020
 
 _**Feel**_ 
 ![Feel](res/img/feel.jpg)
