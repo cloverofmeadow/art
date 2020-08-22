@@ -37,9 +37,6 @@ _**First Time**_
 _**Edible Flower**_ 
 ![Edible Flower](res/img/edible_flower.jpg)
 
-_**Knead**_ 
-![Knead](res/img/knead.jpg)
-
 _**Lions**_ 
 ![Lions](res/img/lions.jpg)
 
@@ -51,3 +48,6 @@ _**Pizza Girl**_
 
 _**Tears**_ 
 ![Tears](res/img/tears.jpg)
+
+_**Knead**_ 
+![Knead](res/img/knead.jpg)
