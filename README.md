@@ -27,7 +27,8 @@ Syntax highlighted code block
 ```
 [Instagram](https://www.instagram.com/clover_ofmeadow/)
 
-![Image](res/img/test.jpg)
+![Feel](res/img/test.jpg)
+![Pizza Girl](res/img/supreme_pizza_girl.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
