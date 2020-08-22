@@ -1,41 +1,53 @@
-## Welcome to GitHub Pages
+## Clover Ofmeadow Art 
 
-You can use the [editor on GitHub](https://github.com/cloverofmeadow/art/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 [Instagram](https://www.instagram.com/clover_ofmeadow/)
 
-![Feel](res/img/test.jpg)
-![Pizza Girl](res/img/supreme_pizza_girl.jpg)
+### 2020
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_**Feel**_ 
+![Feel](res/img/feel.jpg)
 
-### Jekyll Themes
+Blues
+![Blues](res/img/blues.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cloverofmeadow/art/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Elephant
+![Elephant](res/img/elephant.png)
 
-### Support or Contact
+Yours
+![Yours](res/img/yours.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Emotional Bruises
+![Emotional Bruises](res/img/emotional_bruises.jpg)
+
+Gaze
+![Gaze](res/img/gaze.jpg)
+
+Nude Sketch
+![Nude Sketch](res/img/nude_sketch.jpg)
+
+Question Innocence
+![Question Innocence](res/img/question_innocence.jpg)
+
+Getting Older 
+![Getting Older](res/img/getting_older.jpg)
+
+First Time
+![First Time](res/img/first_time.jpg)
+
+Edible Flower 
+![Edible Flower](res/img/edible_flower.jpg)
+
+Knead
+![Knead](res/img/knead.jpg)
+
+Lions
+![Lions](res/img/lions.jpg)
+
+Model
+![Model](res/img/model.jpg)
+
+Pizza Girl
+![Pizza Girl](res/img/pizza_girl.jpg)
+
+Tears
+![Tears](res/img/tears.jpg)
